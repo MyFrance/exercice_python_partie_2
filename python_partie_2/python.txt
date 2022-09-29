@@ -1,4 +1,1 @@
-Je suis là
-pour apprendre python 
-le plus rapidement
-possible 
+Je vais effacer le contenu de mon fichier en faisant ceci
