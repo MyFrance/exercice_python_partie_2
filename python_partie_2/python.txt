@@ -1,1 +1,4 @@
-Je vais effacer le contenu de mon fichier en faisant ceci
+Je vais supprimer le contenu du fichier en utilisant le wJe vais rajouter un cette phrase dans ce fichier sans rien supprimer parce que j'utilise append(c'est le a)Je vais rajouter un cette phrase dans ce fichier sans rien supprimer parce que j'utilise append(c'est le a)Je vais rajouter un cette phrase dans ce fichier sans rien supprimer parce que j'utilise append(c'est le a)Je vais rajouter un cette phrase dans ce fichier sans rien supprimer parce que j'utilise append(c'est le a)
+Je vais rajouter un cette phrase dans ce fichier sans rien supprimer parce que j'utilise append(c'est le a)
+Je vais rajouter un cette phrase dans ce fichier sans rien supprimer parce que j'utilise append(c'est le a)
+Je vais rajouter un cette phrase dans ce fichier sans rien supprimer parce que j'utilise append(c'est le a)
